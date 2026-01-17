@@ -1,9 +1,12 @@
+---
+title: 关于我
+---
 # 👋 Hello, I'm songllluv!
 
 你好！我是 songllluv，一名初一学生，也是热爱编程的 OI 选手。
 
-- 🏫 初一学生（截至2025年5月）
-- 🖥 OI 选手，参加过 CCF 的 CSP-J 2024，获得一等奖300分。
+- 🏫 初二学生（截至2026年1月）
+- 🖥 OI 选手，参加过 CCF 的 CSP-J 2024，获得一等奖300分。 CCF 的 CSP-S 2025，获得一等奖172分。
 - 🌐 课余时间，我喜欢折腾技术，目前已在 Cloudflare Pages 上部署了自己的个人网站：[songlll.pages.dev](https://songlll.pages.dev)
 - 💡 热爱算法、编程与探索新技术！
 
