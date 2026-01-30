@@ -1,6 +1,3 @@
----
-title: 关于我
----
 # 👋 Hello, I'm songllluv!
 
 你好！我是 songllluv，一名初一学生，也是热爱编程的 OI 选手。
